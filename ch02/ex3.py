@@ -1,0 +1,6 @@
+print("첫번쨰 숫자를 입력하세요")
+i1 = input()
+print("두번쨰 숫자를 입력하세요")
+i2 = input()
+result = int(i1) * int(i2)
+print("{} * {} = {}".format(i1, i2, result))
