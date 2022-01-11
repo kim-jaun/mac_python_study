@@ -1,0 +1,5 @@
+cat:냥이
+dog:댕댕이
+home:집
+school:학교
+book:책
